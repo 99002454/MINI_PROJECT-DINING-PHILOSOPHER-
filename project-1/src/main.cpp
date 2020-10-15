@@ -10,7 +10,7 @@
 #include <unistd.h>
 #endif
 
-#include "philosopher.cpp"
+#include "../inc/philosopher.cpp"
 
 using namespace std;
 
