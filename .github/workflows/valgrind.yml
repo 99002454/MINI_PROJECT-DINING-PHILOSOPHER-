@@ -18,5 +18,6 @@ jobs:
         sudo apt-get -y install valgrind
     - name: make test
       run: |
+        cd project-1
         make
         valgrind ./a.out
