@@ -1,4 +1,4 @@
-#include "chopstick.hpp"
+#include "../inc/chopstick.hpp"
 #include <random>
 #include <thread>
 
