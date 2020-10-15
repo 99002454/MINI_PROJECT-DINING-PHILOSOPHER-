@@ -11,7 +11,6 @@
 #endif
 
 #include "../include/philosopher.hpp"
-#include "chopstick.cpp"
 
 using namespace std;
 
