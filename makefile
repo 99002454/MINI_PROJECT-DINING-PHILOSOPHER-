@@ -1,2 +1,2 @@
 all:
-	g++ 3_Implementation/src/Farmer.cc 3_Implementation/src/Farmer_1.cc 3_Implementation/src/Farmer_2.cc 3_Implementation/src/Farmer_3.cc 3_Implementation/src/main.cpp -lpthread -lrt
+	g++ project-1/src/chopstick.cpp 3_Implementation/src/main.cpp 3_Implementation/src/philosopher.cpp -lpthread -lrt
