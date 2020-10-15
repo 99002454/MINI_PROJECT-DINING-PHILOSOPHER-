@@ -1,7 +1,7 @@
 # MINI_PROJECT-DINING-PHILOSOPHER-
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9040df0feae644669c56da42b4691764)](https://app.codacy.com/gh/99002454/MINI_PROJECT-DINING-PHILOSOPHER-?utm_source=github.com&utm_medium=referral&utm_content=99002454/MINI_PROJECT-DINING-PHILOSOPHER-&utm_campaign=Badge_Grade)
-![cppcheck-action](https://github.com/99002454/MINI_PROJECT-DINING-PHILOSOPHER-/workflows/cppcheck-action/badge.svg)
+
 ![Valgrind](https://github.com/99002454/MINI_PROJECT-DINING-PHILOSOPHER-/workflows/Valgrind/badge.svg)
 ![.github/workflows/Gtest.yml](https://github.com/99002454/MINI_PROJECT-DINING-PHILOSOPHER-/workflows/.github/workflows/Gtest.yml/badge.svg)
 ![Build](https://github.com/99002454/MINI_PROJECT-DINING-PHILOSOPHER-/workflows/Build/badge.svg)
