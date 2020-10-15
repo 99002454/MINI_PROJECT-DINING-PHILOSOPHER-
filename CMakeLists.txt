@@ -1,4 +1,4 @@
-project(Mini_Project-Stooge_Farmers_Problem)
+project(MINI_PROJECT-DINING-PHILOSOPHER-)
 
 
 
