@@ -19,5 +19,4 @@ jobs:
     - name: make test
       run: |
         make
-        cd project-1
         sudo valgrind ./a.out
