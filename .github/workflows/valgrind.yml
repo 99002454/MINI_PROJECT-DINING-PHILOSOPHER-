@@ -20,4 +20,4 @@ jobs:
       run: |
         make
         cd project-1
-        valgrind ./a.out
+        sudo valgrind ./a.out
