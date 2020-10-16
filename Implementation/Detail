@@ -1,0 +1,12 @@
+CI/CD framework:
+
+o	GIT: Used git for storing and continuous evaluation of the code. Very important tool for Projects
+o	Build and Make –
+Used GitHub Workflow files for GitHub actions namely,
+1.	C/C++ CI workflow
+2.	Cppcheck
+3.	Valgrind
+4.	Build
+o	Unit Test Framework: Used the GTest framework for the implementation of the test plan and successfully passing 16 test cases. 
+o	Code Quality: Used CODACY for code quality. 
+
